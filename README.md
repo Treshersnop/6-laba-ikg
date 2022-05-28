@@ -1,1 +1,1 @@
-# 6-laba-ikg
+# 6-laba-ikg https://triplepointfive.github.io/ogltutor/
